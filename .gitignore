@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+# 忽略 .vscode 目錄
+.vscode
 __pycache__/
 *.py[cod]
 *$py.class
